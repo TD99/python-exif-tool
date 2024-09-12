@@ -53,7 +53,7 @@ The GUI application will open, allowing you to browse and select the input and o
 
 ## Co-created with AI
 
-This project was co-created with the assistance of GitHub Copilot and ChatGPT, AI programming assistants.
+This project was co-created with the assistance of GitHub Copilot and ChatGPT, two AI programming assistants.
 
 ## Disclaimer
 
